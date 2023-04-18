@@ -1,0 +1,2 @@
+EMAIL=theEmail@outlook.com
+PASSWORD=SuperSafePassword
